@@ -58,3 +58,6 @@ next-env.d.ts
 
 # Aceternity / heavy animation libs sometimes generate cache
 *.cache
+
+# custom logs
+dev_log.md
